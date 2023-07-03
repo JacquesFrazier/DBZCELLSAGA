@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+/*MOVE AROUND THE PRESS BUTTON OPTION*/
+
+h1 {
+    margin: 0 0 0 800px;
+    padding-top: 100px;
+}
+
+ul{
+    width: 490px;
+    height: 220px;
+    border: 5px solid black;
+    margin: 500px 0 0 800px;
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    width: 160px;
+    height: 105px;
+    float: left;
+}
+
+/*DISPLAY CHARACTERS HERE!!!*/
+
+#goku {
+    content: url(image/goku.jpg)  
+}
+
+#gohan {
+    content: url(image/gohan.jpg)
+}
+
+#piccolo {
+    content: url(image/piccolo.jpg)
+}
+
+#vegeta {
+    content: url(image/vegeta.jpg)
+}
+
+#trunks {
+    content: url(image/trunks.jpg)
+}
+
+#krillin {
+    content: url(image/krillin.jpg)
+}
