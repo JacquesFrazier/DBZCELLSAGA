@@ -1,4 +1,5 @@
 
+
 //Establish Code
 document.getElementById("goku").onclick = DBZgoku
 document.getElementById("gohan").onclick = DBZgohan
